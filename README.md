@@ -22,6 +22,8 @@ An Apple Liquid Glass-inspired Rainmeter skin that toggles Windows between Light
 
 > Add a GIF or video of the toggle in action here.
 
+
+
 ## Installation
 
 1. Install [Rainmeter 4.5+](https://www.rainmeter.net/)
