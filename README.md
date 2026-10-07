@@ -20,7 +20,7 @@ An Apple Liquid Glass-inspired Rainmeter skin that toggles Windows between Light
 
 ## Preview
 
-[> Add a GIF or video of the toggle in action here.](https://drive.google.com/file/d/1VCnLIpqnf9Vz6IWr9cETKOmxp85hSEaw/view)
+[> Google Drive demo video link.](https://drive.google.com/file/d/1VCnLIpqnf9Vz6IWr9cETKOmxp85hSEaw/view)
 
 ## Installation
 
